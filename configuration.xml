@@ -1,5 +1,5 @@
 <Configuration>
     <RemoveSourceFile>Enabled</RemoveSourceFile>
     <RemoveLocalVariables>Enabled</RemoveLocalVariables>
-    <RemoveLineNumbers>Enabled</RemoveLineNumbers>
+    <RemoveLineNumbers>Disabled</RemoveLineNumbers>
 </Configuration>
